@@ -27,7 +27,7 @@ int main()
     if(m<1)
     {
         cout<<"for m<1"<<endl;
-        while(x1<=x2)
+        while(x1<=x2)J
         {
             int x_axis,y_axis;
             cout<<"x="<<x1<< " y="<<y<<endl;
